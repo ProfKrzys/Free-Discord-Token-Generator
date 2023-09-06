@@ -1,4 +1,8 @@
 
+<h3 align="center">
+<a href="https://discord.gg/uPVEtUBTYg">JOIN MY DISCORD SERVER</a>
+</h3>
+
 <p align="center">
 <a href="https://streamable.com/x5c89z">THEIR TOKEN GENERATOR SHOWCASE</a>
 <p align="center">

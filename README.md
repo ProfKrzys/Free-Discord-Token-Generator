@@ -11,8 +11,8 @@
 <a href="https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe">DOWNLOAD PYTHON</a>ㅤㅤ 
 </p>
 <p align="center">
- LEAKED BY @LAW:
-<a href="https://guns.lol/law">MY SOCIALS</a>
+ LEAKED BY @SSL:
+<a href="https://guns.lol/ssl">MY SOCIALS</a>
 </p>
 <h3 align="center">
 Star⭐ This Repo If You Like It!

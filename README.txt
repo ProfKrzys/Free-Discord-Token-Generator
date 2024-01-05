@@ -1,9 +1,9 @@
-LEAKED BY (ftfederal) ON DISCORD | AKA federal 
+LEAKED BY (internalvpn) ON DISCORD | AKA solve
 
-Contact me here - https://fraud.lol/obey
+Contact me here - https://fraud.lol/solve
 
 This is a leak from the original discord server "https://discord.gg/999shops" 
 
-It's a paid Token generator & they charge $40 for it....
+It's a paid Token generator & they charged $40 for it but recently changed it to $20....
 
 Enjoy niggas! 

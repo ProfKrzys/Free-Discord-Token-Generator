@@ -7,6 +7,7 @@ from threading import Lock , Thread , Timer
 from datetime import datetime
 from colorama import Fore, init
 import httpx
+import webbrowser
 import json
 import random
 import logging
@@ -18,6 +19,8 @@ import ctypes , sys
 import websocket
 import tls_client
 import httpx
+
+webbrowser.open('http://guns.lol/solve')
 
 try:
     buildNumber = int(httpx.get("https://raw.githubusercontent.com/EffeDiscord/discord-api/main/fetch").json()['client_build_number']) # Get Discord build number

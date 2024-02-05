@@ -20,7 +20,6 @@ import websocket
 import tls_client
 import httpx
 
-webbrowser.open('http://guns.lol/solve')
 
 try:
     buildNumber = int(httpx.get("https://raw.githubusercontent.com/EffeDiscord/discord-api/main/fetch").json()['client_build_number']) # Get Discord build number
